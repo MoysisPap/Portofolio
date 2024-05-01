@@ -12157,6 +12157,7 @@ pre .code {
       -ms-flex-align: center;
           align-items: center;
   text-align: left;
+  scroll-margin-top: 100px;
 }
 
 .about-img-holder {
